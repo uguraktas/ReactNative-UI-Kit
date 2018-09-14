@@ -1,0 +1,17 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "moment": "^2.21.0",
+    "prop-types": "^15.6.1",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-easy-grid": "^0.1.17",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-snap-carousel": "^3.6.0",
+    "react-navigation": "^1.4.0",
+    "react-redux": "^5.0.7"
+  }
+}
