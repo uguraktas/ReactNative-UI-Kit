@@ -7,5 +7,5 @@
   - react-native-linear-gradient
   - react-native-snap-carousel
   
-<img src="https://raw.githubusercontent.com/ReactNative-UI-Kit/master/screenshot/1.png"/>
+<img src="https://github.com/uguraktas/ReactNative-UI-Kit/blob/master/screenshot/1.png"/>
 
